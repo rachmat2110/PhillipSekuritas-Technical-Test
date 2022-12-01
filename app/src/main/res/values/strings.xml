@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="label_stock">STOCK</string>
+    <string name="label_stocks">STOCKS</string>
+    <string name="label_price">PRICE</string>
+    <string name="label_chg">CHG</string>
+    <string name="label_vol">VOL</string>
+    <string name="label_act">ACT</string>
+    <string name="label_time">TIME</string>
+    <string name="label_filter">STOCK FILTER</string>
+    <string name="label_clear_filter">CLEAR FILTER</string>
+    <string name="label_desc_filter">You can add a maximum of 10 stocks</string>
+</resources>
